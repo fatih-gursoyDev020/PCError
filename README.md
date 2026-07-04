@@ -10,6 +10,12 @@ A program that overworks the computer with an infinite GUI panel loop, pushing i
 # Installation
 ### [<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/fatih-gursoyDev020/PCError?style=for-the-badge&logo=github&logoColor=black&logoSize=auto&label=INSTALL%20&labelColor=purple&color=darkblue" width="250">](https://github.com/fatih-gursoyDev020/PCError/releases/download/v0.1.000/PCerrorr.zip)
 
+### [<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/fatih-gursoyDev020/PCError?style=for-the-badge&logo=ilovepdf&logoColor=black&logoSize=auto&label=INSTALL%20PDF.ico%20Format&labelColor=purple&color=darkblue" width="400">](https://github.com/fatih-gursoyDev020/PCError/releases/download/v0.1.000/PCErrorr-pdf_ico.zip)
+
+### [<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/fatih-gursoyDev020/PCError?style=for-the-badge&logo=awwwards&logoColor=black&logoSize=auto&label=INSTALL%20docx.ico%20Format&labelColor=purple&color=darkblue" width="400">](https://github.com/fatih-gursoyDev020/PCError/releases/download/v0.1.000/PCErrorr-word_ico.zip)
+
+
+
 
 
 # **Warning!!!**  
